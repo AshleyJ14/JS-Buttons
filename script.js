@@ -20,4 +20,4 @@ function myTest() {
     
 function myColor() {
     document.getElementById("color").style.color = "Purple";
-}
+};
